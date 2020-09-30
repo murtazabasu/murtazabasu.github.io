@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Murtaza</title>
+    <link>https://murtazabasu.github.io/project/</link>
+      <atom:link href="https://murtazabasu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Murtaza Khuzema Basuwala 2020</copyright><lastBuildDate>Wed, 30 Sep 2020 06:09:02 -0700</lastBuildDate>
+    <image>
+      <url>https://murtazabasu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://murtazabasu.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Coordinating Two UR5 Robots using Reinforcement Learning</title>
+      <link>https://murtazabasu.github.io/project/multi_robot_rl/</link>
+      <pubDate>Wed, 30 Sep 2020 06:09:02 -0700</pubDate>
+      <guid>https://murtazabasu.github.io/project/multi_robot_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion control of a peristaltic sorting machine using reinforcement learning </title>
+      <link>https://murtazabasu.github.io/project/psm_rl/</link>
+      <pubDate>Wed, 30 Sep 2020 06:01:11 -0700</pubDate>
+      <guid>https://murtazabasu.github.io/project/psm_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pick and Place using ROS/MoveIt</title>
+      <link>https://murtazabasu.github.io/project/coord-ur5-ros/</link>
+      <pubDate>Wed, 30 Sep 2020 05:53:03 -0700</pubDate>
+      <guid>https://murtazabasu.github.io/project/coord-ur5-ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing a Non-Linear controller for a bioreactor system</title>
+      <link>https://murtazabasu.github.io/project/bioreactor_act/</link>
+      <pubDate>Wed, 30 Sep 2020 05:45:35 -0700</pubDate>
+      <guid>https://murtazabasu.github.io/project/bioreactor_act/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training a UR5 Robot on 5 random targets using Reinforcement Learning</title>
+      <link>https://murtazabasu.github.io/project/single_robot_rl/</link>
+      <pubDate>Wed, 30 Sep 2020 04:10:08 -0700</pubDate>
+      <guid>https://murtazabasu.github.io/project/single_robot_rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classic Machine Learning Models</title>
+      <link>https://murtazabasu.github.io/project/classic_ml_github/</link>
+      <pubDate>Wed, 30 Sep 2020 03:56:11 -0700</pubDate>
+      <guid>https://murtazabasu.github.io/project/classic_ml_github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
