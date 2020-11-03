@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Motion control of a peristaltic sorting machine using reinforcement learning </title>
-      <link>https://murtazabasu.github.io/project/psm_rl/</link>
+      <title>Identify Pneumothorax using Image Classification (UNet) </title>
+      <link>https://murtazabasu.github.io/project/identify_pneumothorax/</link>
       <pubDate>Tue, 03 Nov 2020 09:14:02 -0800</pubDate>
-      <guid>https://murtazabasu.github.io/project/psm_rl/</guid>
+      <guid>https://murtazabasu.github.io/project/identify_pneumothorax/</guid>
       <description></description>
     </item>
     
@@ -29,10 +29,10 @@
     </item>
     
     <item>
-      <title>Identify Pneumothorax using Image Classification (UNet) </title>
-      <link>https://murtazabasu.github.io/project/identify_pneumothorax/</link>
+      <title>Motion Control of a peristaltic sorting machine using reinforcement learning </title>
+      <link>https://murtazabasu.github.io/project/psm_rl/</link>
       <pubDate>Wed, 30 Sep 2020 06:01:11 -0700</pubDate>
-      <guid>https://murtazabasu.github.io/project/identify_pneumothorax/</guid>
+      <guid>https://murtazabasu.github.io/project/psm_rl/</guid>
       <description></description>
     </item>
     
@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>Designing a Non-Linear controller for a bioreactor system</title>
+      <title>Designing a Non-Linear Controller for a Bioreactor System</title>
       <link>https://murtazabasu.github.io/project/bioreactor_act/</link>
       <pubDate>Wed, 30 Sep 2020 05:45:35 -0700</pubDate>
       <guid>https://murtazabasu.github.io/project/bioreactor_act/</guid>
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>Training a UR5 Robot on 5 random targets using Reinforcement Learning</title>
+      <title>Training a UR5 Robot on random targets using Reinforcement Learning</title>
       <link>https://murtazabasu.github.io/project/single_robot_rl/</link>
       <pubDate>Wed, 30 Sep 2020 04:10:08 -0700</pubDate>
       <guid>https://murtazabasu.github.io/project/single_robot_rl/</guid>
