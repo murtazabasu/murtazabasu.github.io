@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://murtazabasu.github.io/project/psm_rl/</loc>
+    <lastmod>2020-11-03T09:14:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://murtazabasu.github.io/</loc>
+    <lastmod>2020-11-03T09:14:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://murtazabasu.github.io/project/</loc>
+    <lastmod>2020-11-03T09:14:02-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://murtazabasu.github.io/project/multi_robot_rl/</loc>
     <lastmod>2020-09-30T06:09:02-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://murtazabasu.github.io/</loc>
-    <lastmod>2020-09-30T06:09:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://murtazabasu.github.io/project/</loc>
-    <lastmod>2020-09-30T06:09:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://murtazabasu.github.io/project/psm_rl/</loc>
+    <loc>https://murtazabasu.github.io/project/identify_pneumothorax/</loc>
     <lastmod>2020-09-30T06:01:11-07:00</lastmod>
   </url>
   
