@@ -1931,11 +1931,10 @@
     
     
       
-      
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/murtazab22@gmail.com"  >
+      <form name="contact" method="POST" netlify netlify-honeypot="welcome-bot" >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -1947,6 +1946,10 @@
         <div class="form-group">
           <label class="sr-only" for="inputMessage">Message</label>
           <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+        </div>
+        
+        <div class="d-none">
+          <label>Do not fill this field unless you are a bot: <input name="welcome-bot"></label>
         </div>
         
         
@@ -2137,8 +2140,8 @@
   <div class="container">
     <footer class="site-footer">
   
-<!-- 
-  <p class="powered-by">
+
+  <!-- <p class="powered-by">
     © Murtaza Khuzema Basuwala 2020
   </p> -->
 
@@ -2152,7 +2155,7 @@
 
   <p class="powered-by">
     
-    © Murtaza Khuzema Basuwala 2021 | Published with
+    © Murtaza Khuzema Basuwala 2020 | Published with
     <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy Website Builder</a>
     
 
